@@ -104,3 +104,22 @@ console.warn: services.settings: main/messaging-experiments sync interrupted by 
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1599572341827	geckodriver	INFO	Listening on 127.0.0.1:12091
+1599572344886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAAB\\AppData\\Local\\Temp\\rust_mozprofilehqBI1z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599572349714	Marionette	INFO	Listening on port 12099
+1599572349836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599572350514	Marionette	INFO	Stopped listening on port 12099
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
