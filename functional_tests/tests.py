@@ -98,7 +98,7 @@ class NewVistorTest(LiveServerTestCase):
         
         #francis gets his own unique URL
         francis_list_url = self.browser.current_url
-        self.assertRegex(francis_list_url, '/list/.+')
+        self.assertRegex(francis_list_url, '/lists/.+')
         self.assertNotEqual(francis_list_url, edith_list_url)
         
         #Again there is no trace of edith list
