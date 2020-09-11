@@ -1,0 +1,397 @@
+1599827537768	geckodriver	INFO	Listening on 127.0.0.1:49482
+1599827541028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofileTZ8IcL"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599827564237	Marionette	INFO	Listening on port 49490
+1599827564594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599827581827	Marionette	INFO	Stopped listening on port 49490
+[Parent 1316, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1599827585117	geckodriver	INFO	Listening on 127.0.0.1:49551
+1599827588284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofilec6yUDt"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599827595897	Marionette	INFO	Listening on port 49559
+1599827596223	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599827605674	Marionette	INFO	Stopped listening on port 49559
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1599827609350	geckodriver	INFO	Listening on 127.0.0.1:49597
+1599827612439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofile5yGb8A"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599827622877	Marionette	INFO	Listening on port 49605
+1599827622954	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599827637675	Marionette	INFO	Stopped listening on port 49605
+[Parent 5536, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1599827716452	geckodriver	INFO	Listening on 127.0.0.1:49662
+1599827719495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofile9x069y"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599827731557	Marionette	INFO	Listening on port 49670
+1599827731915	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599827747678	Marionette	INFO	Stopped listening on port 49670
+[Parent 4104, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1599827750391	geckodriver	INFO	Listening on 127.0.0.1:49722
+1599827753443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofiley7GRyx"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599827760694	Marionette	INFO	Listening on port 49730
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599827761105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599827765206	Marionette	INFO	Stopped listening on port 49730
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+[Parent 4020, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 688))
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1599827770551	geckodriver	INFO	Listening on 127.0.0.1:49769
+1599827773642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofile3HBrLs"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599827781715	Marionette	INFO	Listening on port 49777
+1599827782168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599827796892	Marionette	INFO	Stopped listening on port 49777
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5696, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 5696, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1599843979426	geckodriver	INFO	Listening on 127.0.0.1:51551
+1599843982671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofilefv09gO"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599843995126	Marionette	INFO	Listening on port 51559
+1599843995690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599844011764	Marionette	INFO	Stopped listening on port 51559
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1599844015560	geckodriver	INFO	Listening on 127.0.0.1:51609
+1599844018649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofiledNnSjV"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599844024800	Marionette	INFO	Listening on port 51617
+1599844025073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599844028862	Marionette	INFO	Stopped listening on port 51617
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1599844031524	geckodriver	INFO	Listening on 127.0.0.1:51659
+1599844034597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofilexCyxGC"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599844040825	Marionette	INFO	Listening on port 51667
+1599844040951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599844054803	Marionette	INFO	Stopped listening on port 51667
+1599845450945	geckodriver	INFO	Listening on 127.0.0.1:51732
+1599845454097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofilePJGLZQ"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599845461664	Marionette	INFO	Listening on port 51740
+1599845461742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599845469487	Marionette	INFO	Stopped listening on port 51740
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+1599845472042	geckodriver	INFO	Listening on 127.0.0.1:51778
+1599845475163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofilerrXbuD"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599845481528	Marionette	INFO	Listening on port 51786
+1599845481682	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599845486012	Marionette	INFO	Stopped listening on port 51786
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1599845488599	geckodriver	INFO	Listening on 127.0.0.1:51821
+1599845491719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofileom21AG"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599845498471	Marionette	INFO	Listening on port 51829
+1599845498573	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599845504415	Marionette	INFO	Stopped listening on port 51829
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1599845507425	geckodriver	INFO	Listening on 127.0.0.1:51873
+1599845510483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofilep8bbwc"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599845517040	Marionette	INFO	Listening on port 51881
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599845517498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599845522729	Marionette	INFO	Stopped listening on port 51881
+1599846538799	geckodriver	INFO	Listening on 127.0.0.1:52177
+1599846541888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofilecsmLvL"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599846549633	Marionette	INFO	Listening on port 52185
+1599846549874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599846555896	Marionette	INFO	Stopped listening on port 52185
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1599846558501	geckodriver	INFO	Listening on 127.0.0.1:52230
+1599846561621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofilebMaLmh"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599846568269	Marionette	INFO	Listening on port 52238
+1599846568625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599846573124	Marionette	INFO	Stopped listening on port 52238
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1599846575509	geckodriver	INFO	Listening on 127.0.0.1:52276
+1599846578582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofiledMqrIi"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599846585199	Marionette	INFO	Listening on port 52284
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599846585505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599846589341	Marionette	INFO	Stopped listening on port 52284
+[Parent 4408, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1599846592267	geckodriver	INFO	Listening on 127.0.0.1:52318
+1599846595403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofileOW15bO"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599846601314	Marionette	INFO	Listening on port 52326
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599846601504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599846606882	Marionette	INFO	Stopped listening on port 52326
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1599849467226	geckodriver	INFO	Listening on 127.0.0.1:53001
+1599849470181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofilesMJW0O"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599849478503	Marionette	INFO	Listening on port 53011
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599849478777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599849485249	Marionette	INFO	Stopped listening on port 53011
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1599849487806	geckodriver	INFO	Listening on 127.0.0.1:53051
+1599849490863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofileEFhF4N"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599849498121	Marionette	INFO	Listening on port 53059
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599849498284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599849503347	Marionette	INFO	Stopped listening on port 53059
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1599849506907	geckodriver	INFO	Listening on 127.0.0.1:53093
+1599849509933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofileDSY1ZG"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599849517035	Marionette	INFO	Listening on port 53101
+1599849517157	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599849521159	Marionette	INFO	Stopped listening on port 53101
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+[Parent 1452, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+1599849524414	geckodriver	INFO	Listening on 127.0.0.1:53131
+1599849527487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Amir\\AppData\\Local\\Temp\\rust_mozprofileohqU0w"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599849534719	Marionette	INFO	Listening on port 53139
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.1930 and DLL(s) 8.14.10.1930,  reported.
+1599849535189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599849539949	Marionette	INFO	Stopped listening on port 53139
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.

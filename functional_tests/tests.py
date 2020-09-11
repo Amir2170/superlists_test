@@ -2,12 +2,12 @@ from selenium import webdriver
 import unittest
 import time
 from selenium.webdriver.common.keys import Keys
-from django.test import LiveServerTestCase
+from django.contrib.staticfiles.testing import StaticLiveServerTestCase
 from selenium.common.exceptions import WebDriverException
 
 MAX_TIME = 10
 
-class NewVistorTest(LiveServerTestCase):
+class NewVistorTest(StaticLiveServerTestCase):
 
 	def setUp(self):
 		self.browser = webdriver.Firefox()
