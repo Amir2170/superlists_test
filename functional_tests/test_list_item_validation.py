@@ -11,15 +11,6 @@ MAX_WAIT = 10
 
 class ItemValidationTest(FunctionalTest):
 	
-	def wait_for(self, fn):
-		start_time = time.time()
-		while True:
-			try:
-				return fn()
-			except(WebDriverException, AssertionError) as e:
-				if time.time() - start_time > MAX_WAIT:
-					raise e
-				time.sleep(0.5)
 	
 	def test_cannot_add_empty_items(self):
 		# Edith goes to the home page and accidentally tries to submit
