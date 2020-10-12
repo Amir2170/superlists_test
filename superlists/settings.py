@@ -13,9 +13,24 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 from pathlib import Path
 import os
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-print(BASE_DIR)
+LOGGING = {
+	'version': 1,
+	'disable_existing_loggers': False,
+	'handlers': {
+		'console': {
+			'level': 'DEBUG',
+			'class': 'logging.StreamHandler',
+		},
+	},
+	'loggers': {
+		'django': {
+			'handlers': ['console'],
+		},
+	},
+	'root': {'level': 'INFO'},
+}
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
@@ -42,6 +57,9 @@ INSTALLED_APPS = [
 ]
 
 AUTH_USER_MODEL = 'accounts.User'
+AUTHENTICATION_BACKENDS = [
+	'accounts.authentication.PasswordlessAuthenticationBackend',
+]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -115,6 +133,15 @@ USE_I18N = True
 USE_L10N = True
 
 USE_TZ = True
+
+# Email
+
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = 'mysuperlists2170@gmail.com'
+EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_PASSWORD')
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
+
 
 
 # Static files (CSS, JavaScript, Images)
