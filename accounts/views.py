@@ -4,6 +4,7 @@ from django.contrib import messages
 from django.urls import reverse
 from django.contrib import auth, messages
 
+
 from accounts.models import Token
 
 
@@ -31,4 +32,9 @@ def login(request):
 	user = auth.authenticate(uid=request.GET.get('token'))
 	if user:
 		auth.login(request, user)
+	return redirect('/')
+
+
+def logout(request):
+	auth.logout(request)
 	return redirect('/')

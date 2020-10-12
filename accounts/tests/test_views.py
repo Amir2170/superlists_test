@@ -74,3 +74,11 @@ class LoginViewTest(TestCase):
 		mock_auth.authenticate.return_value = None
 		self.client.get('/accounts/login?token=abcd123')
 		self.assertEqual(mock_auth.login.called, False)
+
+
+class LogoutViewTest(TestCase):
+	
+	@patch('accounts.views.auth')
+	def test_redirects_to_home_page_after_logout(self, mock_auth):
+		response = self.client.get('/accounts/logout')
+		self.assertRedirects(response, '/')
