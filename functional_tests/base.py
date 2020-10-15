@@ -3,6 +3,8 @@ from selenium.webdriver.common.keys import Keys
 import time
 from django.contrib.staticfiles.testing import StaticLiveServerTestCase
 from selenium.common.exceptions import WebDriverException
+from .server_tools import reset_database
+import os
 from unittest import skip
 
 
@@ -13,6 +15,10 @@ class FunctionalTest(StaticLiveServerTestCase):
 		
 	def setUp(self):
 		self.browser = webdriver.Firefox()
+		self.staging_server = os.environ.get('STAGING_SERVER')
+		if self.staging_server:
+			self.live_server_url = 'http://' + self.staging_server 
+			reset_database(self.staging_server)
 		
 	def tearDown(self):
 		self.browser.quit()
@@ -29,8 +35,8 @@ class FunctionalTest(StaticLiveServerTestCase):
 					time.sleep(0.5)
 		return modified_fn
     
-    @wait
-    def wait_for(self, fn):
+	@wait
+	def wait_for(self, fn):
 		return fn()
 	
 	@wait

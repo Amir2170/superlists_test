@@ -41,7 +41,7 @@ SECRET_KEY = 'f$(&04!fd2towecdy4*mb7eo$@lf#db(n$wp@@d1#!#8adjl9('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['staging.mysuperlists.ir']
 
 
 # Application definition
@@ -54,6 +54,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'lists',
     'accounts',
+    'functional_tests',
 ]
 
 AUTH_USER_MODEL = 'accounts.User'
