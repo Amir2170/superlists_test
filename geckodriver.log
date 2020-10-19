@@ -9233,3 +9233,475 @@ JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection
 1602871939630	Marionette	INFO	Listening on port 41715
 1602871939803	Marionette	WARN	TLS certificate errors will be ignored for this session
 1602871942741	Marionette	INFO	Stopped listening on port 41715
+1603122123714	geckodriver	INFO	Listening on 127.0.0.1:51357
+1603122124731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePJL1tl"
+1603122126117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122126118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122132285	Marionette	INFO	Listening on port 34953
+1603122132394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122135263	Marionette	INFO	Stopped listening on port 34953
+1603122137358	geckodriver	INFO	Listening on 127.0.0.1:43877
+1603122137367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9imCGt"
+1603122138600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122138600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122144571	Marionette	INFO	Listening on port 41013
+1603122144622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122147631	Marionette	INFO	Stopped listening on port 41013
+1603122149498	geckodriver	INFO	Listening on 127.0.0.1:52489
+1603122149505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo1Ns08"
+1603122150736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122150737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122156647	Marionette	INFO	Listening on port 41301
+1603122156770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122160192	Marionette	INFO	Stopped listening on port 41301
+1603122162476	geckodriver	INFO	Listening on 127.0.0.1:42543
+1603122162485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7kdpxu"
+1603122163720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122163721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122169520	Marionette	INFO	Listening on port 41579
+1603122169730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122172958	Marionette	INFO	Stopped listening on port 41579
+1603122175184	geckodriver	INFO	Listening on 127.0.0.1:58577
+1603122175194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1O9odr"
+1603122176441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122176442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122182435	Marionette	INFO	Listening on port 46141
+1603122182510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122195932	Marionette	INFO	Stopped listening on port 46141
+1603122198050	geckodriver	INFO	Listening on 127.0.0.1:47839
+1603122198059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenZnG5a"
+1603122199376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122199377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122205754	Marionette	INFO	Listening on port 41059
+1603122205902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122209167	Marionette	INFO	Stopped listening on port 41059
+1603122213545	geckodriver	INFO	Listening on 127.0.0.1:43613
+1603122213554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDYS07h"
+1603122214780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122214781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122220762	Marionette	INFO	Listening on port 40483
+1603122220818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122222636	Marionette	INFO	Stopped listening on port 40483
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 103: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+console.error: 
+  [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/DownloadsManager.jsm :: init :: line 44"  data: no]: init@resource://activity-stream/lib/DownloadsManager.jsm:44:5
+postInit@resource://activity-stream/lib/HighlightsFeed.jsm:60:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:119:5
+observe@resource://gre/modules/AsyncShutdown.jsm:541:9
+
+1603122224668	geckodriver	INFO	Listening on 127.0.0.1:40665
+1603122224676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIqGKBo"
+1603122225908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122225909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122231949	Marionette	INFO	Listening on port 46537
+1603122232054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122234272	Marionette	INFO	Stopped listening on port 46537
+1603122485441	geckodriver	INFO	Listening on 127.0.0.1:52751
+1603122486456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileokhFvi"
+1603122487671	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122487672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122493596	Marionette	INFO	Listening on port 34401
+1603122493714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122496358	Marionette	INFO	Stopped listening on port 34401
+1603122498623	geckodriver	INFO	Listening on 127.0.0.1:59213
+1603122498632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile12FNmS"
+1603122499878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122499879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122507125	Marionette	INFO	Listening on port 38965
+1603122507239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122510241	Marionette	INFO	Stopped listening on port 38965
+1603122512101	geckodriver	INFO	Listening on 127.0.0.1:59203
+1603122512111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVdSEbb"
+1603122513622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122513623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122519849	Marionette	INFO	Listening on port 46589
+1603122519925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122523521	Marionette	INFO	Stopped listening on port 46589
+1603122528671	geckodriver	INFO	Listening on 127.0.0.1:46245
+1603122528681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehXs2JV"
+1603122529920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122529921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122535787	Marionette	INFO	Listening on port 34775
+1603122535873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122539122	Marionette	INFO	Stopped listening on port 34775
+1603122541165	geckodriver	INFO	Listening on 127.0.0.1:47585
+1603122542178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilethsLJU"
+1603122543411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122543412	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122549331	Marionette	INFO	Listening on port 43991
+1603122549449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122564503	Marionette	INFO	Stopped listening on port 43991
+1603122566476	geckodriver	INFO	Listening on 127.0.0.1:48003
+1603122566489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiWWXWC"
+1603122567806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122567806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122574350	Marionette	INFO	Listening on port 38463
+1603122574612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122577409	Marionette	INFO	Stopped listening on port 38463
+1603122579310	geckodriver	INFO	Listening on 127.0.0.1:60733
+1603122579320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2nmhvJ"
+1603122580676	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122580677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122586775	Marionette	INFO	Listening on port 43511
+1603122586895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122589131	Marionette	INFO	Stopped listening on port 43511
+1603122590937	geckodriver	INFO	Listening on 127.0.0.1:38675
+1603122590945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN4uSyx"
+1603122592249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122592250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11387, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-HCf5Cx/firefox-65.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1603122602906	geckodriver	INFO	Listening on 127.0.0.1:36433
+1603122602922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUKrU6s"
+1603122604453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122604454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122611380	Marionette	INFO	Listening on port 42845
+1603122611488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122614012	Marionette	INFO	Stopped listening on port 42845
+[Parent 11487, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-HCf5Cx/firefox-65.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1603122615974	geckodriver	INFO	Listening on 127.0.0.1:49959
+1603122615991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehQsUiX"
+1603122617339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122617340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122623326	Marionette	INFO	Listening on port 36465
+1603122623418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122626289	Marionette	INFO	Stopped listening on port 36465
+1603122628189	geckodriver	INFO	Listening on 127.0.0.1:40521
+1603122628197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezpbyOM"
+1603122629426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122629427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122635445	Marionette	INFO	Listening on port 46153
+1603122635588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122638600	Marionette	INFO	Stopped listening on port 46153
+1603122640780	geckodriver	INFO	Listening on 127.0.0.1:54083
+1603122640789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq5Ellc"
+1603122642062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122642063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122648146	Marionette	INFO	Listening on port 34137
+1603122648276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122651508	Marionette	INFO	Stopped listening on port 34137
+1603122653530	geckodriver	INFO	Listening on 127.0.0.1:60213
+1603122653539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2R6ofd"
+1603122654773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122654774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122660662	Marionette	INFO	Listening on port 34561
+1603122660742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122666436	Marionette	INFO	Stopped listening on port 34561
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 12401, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-HCf5Cx/firefox-65.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1603122668704	geckodriver	INFO	Listening on 127.0.0.1:44143
+1603122668714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1BpoZV"
+1603122669955	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122669956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122676031	Marionette	INFO	Listening on port 42183
+1603122676079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122679277	Marionette	INFO	Stopped listening on port 42183
+1603122684059	geckodriver	INFO	Listening on 127.0.0.1:43913
+1603122685072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKN4QI2"
+1603122686314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122686316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122692250	Marionette	INFO	Listening on port 38147
+1603122692328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122694376	Marionette	INFO	Stopped listening on port 38147
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1603122696939	geckodriver	INFO	Listening on 127.0.0.1:35413
+1603122696951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileofU3lQ"
+1603122698200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122698201	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122704293	Marionette	INFO	Listening on port 44673
+1603122704453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122706659	Marionette	INFO	Stopped listening on port 44673
+1603122916706	geckodriver	INFO	Listening on 127.0.0.1:58341
+1603122916721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles4yJAk"
+1603122917849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122917849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122923464	Marionette	INFO	Listening on port 38465
+1603122923585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122925612	Marionette	INFO	Stopped listening on port 38465
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1603122927854	geckodriver	INFO	Listening on 127.0.0.1:41435
+1603122927864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYlcIM6"
+1603122928996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122928997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122934584	Marionette	INFO	Listening on port 37051
+1603122934631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122937202	Marionette	INFO	Stopped listening on port 37051
+1603122939081	geckodriver	INFO	Listening on 127.0.0.1:47549
+1603122939089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXHVyqP"
+1603122940242	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122940243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122945827	Marionette	INFO	Listening on port 45831
+1603122945951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122949075	Marionette	INFO	Stopped listening on port 45831
+1603122951112	geckodriver	INFO	Listening on 127.0.0.1:40141
+1603122951121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEu86HL"
+1603122952271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122952272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122957687	Marionette	INFO	Listening on port 40873
+1603122957807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122960908	Marionette	INFO	Stopped listening on port 40873
+[Parent 14016, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-HCf5Cx/firefox-65.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1603122963036	geckodriver	INFO	Listening on 127.0.0.1:44931
+1603122963046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileES4fDt"
+1603122964183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122964184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122969758	Marionette	INFO	Listening on port 37455
+1603122969823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122975524	Marionette	INFO	Stopped listening on port 37455
+1603122977727	geckodriver	INFO	Listening on 127.0.0.1:39087
+1603122977738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileST6zdt"
+1603122978883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122978884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122984584	Marionette	INFO	Listening on port 38463
+1603122984770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603122987499	Marionette	INFO	Stopped listening on port 38463
+1603122989279	geckodriver	INFO	Listening on 127.0.0.1:45843
+1603122989287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLTsMJC"
+1603122990441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603122990442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603122996291	Marionette	INFO	Listening on port 36207
+1603122996411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123000152	Marionette	INFO	Stopped listening on port 36207
+1603123006104	geckodriver	INFO	Listening on 127.0.0.1:44305
+1603123006112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile66zrXR"
+1603123007243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123007243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123012671	Marionette	INFO	Listening on port 35393
+1603123012783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123014781	Marionette	INFO	Stopped listening on port 35393
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: 
+  [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/DownloadsManager.jsm :: init :: line 44"  data: no]: init@resource://activity-stream/lib/DownloadsManager.jsm:44:5
+postInit@resource://activity-stream/lib/HighlightsFeed.jsm:60:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:119:5
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1603123052433	geckodriver	INFO	Listening on 127.0.0.1:48711
+1603123052450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSIxM8k"
+1603123053586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123053587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123059089	Marionette	INFO	Listening on port 40661
+1603123059191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123061228	Marionette	INFO	Stopped listening on port 40661
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1603123066493	geckodriver	INFO	Listening on 127.0.0.1:39159
+1603123067532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRC2bcN"
+1603123068664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123068665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123074094	Marionette	INFO	Listening on port 38213
+1603123074181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123076655	Marionette	INFO	Stopped listening on port 38213
+1603123078407	geckodriver	INFO	Listening on 127.0.0.1:38665
+1603123078414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCRYncq"
+1603123079533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123079534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123085035	Marionette	INFO	Listening on port 43367
+1603123085089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123088295	Marionette	INFO	Stopped listening on port 43367
+[Parent 15489, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-HCf5Cx/firefox-65.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1603123090267	geckodriver	INFO	Listening on 127.0.0.1:35161
+1603123090277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoK03PY"
+1603123091405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123091406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123097363	Marionette	INFO	Listening on port 33333
+1603123097443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123100383	Marionette	INFO	Stopped listening on port 33333
+1603123102580	geckodriver	INFO	Listening on 127.0.0.1:41155
+1603123102590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekYHBOe"
+1603123103746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123103747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123109295	Marionette	INFO	Listening on port 34247
+1603123109352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123124384	Marionette	INFO	Stopped listening on port 34247
+1603123126888	geckodriver	INFO	Listening on 127.0.0.1:58509
+1603123126896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebNNUVd"
+1603123128025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123128025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123137328	Marionette	INFO	Listening on port 36811
+1603123137597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123141897	Marionette	INFO	Stopped listening on port 36811
+1603123144488	geckodriver	INFO	Listening on 127.0.0.1:37203
+1603123144499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePuQMsf"
+1603123147281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123147282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123154912	Marionette	INFO	Listening on port 38741
+1603123155012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123156747	Marionette	INFO	Stopped listening on port 38741
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: 
+  [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/DownloadsManager.jsm :: init :: line 44"  data: no]: init@resource://activity-stream/lib/DownloadsManager.jsm:44:5
+postInit@resource://activity-stream/lib/HighlightsFeed.jsm:60:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:119:5
+
+1603123158786	geckodriver	INFO	Listening on 127.0.0.1:42989
+1603123159798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegMWEv7"
+1603123160946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123160947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123166469	Marionette	INFO	Listening on port 43845
+1603123166587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123169951	Marionette	INFO	Stopped listening on port 43845
+1603123199530	geckodriver	INFO	Listening on 127.0.0.1:46325
+1603123199548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelWFTJs"
+1603123200701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123200702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123206201	Marionette	INFO	Listening on port 37437
+1603123206314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123208321	Marionette	INFO	Stopped listening on port 37437
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1603123210519	geckodriver	INFO	Listening on 127.0.0.1:46279
+1603123210530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZbCLKK"
+1603123211680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123211681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123217274	Marionette	INFO	Listening on port 36563
+1603123217526	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123219993	Marionette	INFO	Stopped listening on port 36563
+1603123222835	geckodriver	INFO	Listening on 127.0.0.1:50563
+1603123222843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileam5rJt"
+1603123223986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123223987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123229307	Marionette	INFO	Listening on port 35541
+1603123229591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123232419	Marionette	INFO	Stopped listening on port 35541
+1603123234824	geckodriver	INFO	Listening on 127.0.0.1:54663
+1603123234835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTAbELY"
+1603123235990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123235991	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123241455	Marionette	INFO	Listening on port 33735
+1603123241512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123244540	Marionette	INFO	Stopped listening on port 33735
+1603123246705	geckodriver	INFO	Listening on 127.0.0.1:52013
+1603123246716	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGGsJdW"
+1603123247858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123247859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123253377	Marionette	INFO	Listening on port 41333
+1603123253458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123258737	Marionette	INFO	Stopped listening on port 41333
+1603123260957	geckodriver	INFO	Listening on 127.0.0.1:41195
+1603123260965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1Knv1b"
+1603123262121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123262122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123267602	Marionette	INFO	Listening on port 41081
+1603123267718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123270466	Marionette	INFO	Stopped listening on port 41081
+1603123272244	geckodriver	INFO	Listening on 127.0.0.1:35739
+1603123272251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenNWFGk"
+1603123273468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123273469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123278965	Marionette	INFO	Listening on port 40843
+1603123279015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123280849	Marionette	INFO	Stopped listening on port 40843
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: 
+  [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/DownloadsManager.jsm :: init :: line 44"  data: no]: init@resource://activity-stream/lib/DownloadsManager.jsm:44:5
+postInit@resource://activity-stream/lib/HighlightsFeed.jsm:60:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:119:5
+
+1603123282861	geckodriver	INFO	Listening on 127.0.0.1:49991
+1603123282869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile903p08"
+1603123284023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123284024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123289441	Marionette	INFO	Listening on port 45293
+1603123289591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123291627	Marionette	INFO	Stopped listening on port 45293
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1603123304748	geckodriver	INFO	Listening on 127.0.0.1:39777
+1603123304765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqE5aaY"
+1603123305918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123305919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123311288	Marionette	INFO	Listening on port 40695
+1603123311424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123313518	Marionette	INFO	Stopped listening on port 40695
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1603123315676	geckodriver	INFO	Listening on 127.0.0.1:50213
+1603123315686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVo21kD"
+1603123316820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123316820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123322831	Marionette	INFO	Listening on port 41097
+1603123323025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123326298	Marionette	INFO	Stopped listening on port 41097
+[Parent 18693, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-HCf5Cx/firefox-65.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1603123328168	geckodriver	INFO	Listening on 127.0.0.1:39077
+1603123328182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1bknh6"
+1603123329420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123329421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123335366	Marionette	INFO	Listening on port 42917
+1603123335513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123338893	Marionette	INFO	Stopped listening on port 42917
+1603123341277	geckodriver	INFO	Listening on 127.0.0.1:59549
+1603123341287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileycXRUW"
+1603123342635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123342636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123348697	Marionette	INFO	Listening on port 36959
+1603123348772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123351746	Marionette	INFO	Stopped listening on port 36959
+[Parent 19104, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-HCf5Cx/firefox-65.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1603123356085	geckodriver	INFO	Listening on 127.0.0.1:52715
+1603123357096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevu9YmJ"
+1603123358433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123358434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123364735	Marionette	INFO	Listening on port 35453
+1603123364953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123381099	Marionette	INFO	Stopped listening on port 35453
+[Parent 19317, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-HCf5Cx/firefox-65.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 19317, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-HCf5Cx/firefox-65.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1603123383491	geckodriver	INFO	Listening on 127.0.0.1:54899
+1603123383502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOZtQKH"
+1603123384801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123384802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123391214	Marionette	INFO	Listening on port 39507
+1603123391290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123394366	Marionette	INFO	Stopped listening on port 39507
+1603123396429	geckodriver	INFO	Listening on 127.0.0.1:55921
+1603123396438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYPaWMD"
+1603123397571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123397572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123403035	Marionette	INFO	Listening on port 44241
+1603123403111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123404898	Marionette	INFO	Stopped listening on port 44241
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 103: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+console.error: 
+  [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/DownloadsManager.jsm :: init :: line 44"  data: no]: init@resource://activity-stream/lib/DownloadsManager.jsm:44:5
+postInit@resource://activity-stream/lib/HighlightsFeed.jsm:60:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:119:5
+observe@resource://gre/modules/AsyncShutdown.jsm:541:9
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1603123406847	geckodriver	INFO	Listening on 127.0.0.1:43473
+1603123406856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileln8TP2"
+1603123407980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123407981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123413382	Marionette	INFO	Listening on port 46117
+1603123413478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123415505	Marionette	INFO	Stopped listening on port 46117
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: 
+  [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/DownloadsManager.jsm :: init :: line 44"  data: no]: init@resource://activity-stream/lib/DownloadsManager.jsm:44:5
+postInit@resource://activity-stream/lib/HighlightsFeed.jsm:60:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:119:5
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1603123484505	geckodriver	INFO	Listening on 127.0.0.1:58671
+1603123484518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezODnO9"
+1603123485673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603123485674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603123491280	Marionette	INFO	Listening on port 44017
+1603123491378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603123497431	Marionette	INFO	Stopped listening on port 44017
