@@ -13,7 +13,7 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 from pathlib import Path
 import os
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 LOGGING = {
 	'version': 1,
@@ -41,7 +41,7 @@ SECRET_KEY = 'f$(&04!fd2towecdy4*mb7eo$@lf#db(n$wp@@d1#!#8adjl9('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['staging.mysuperlists.ir', 'localhost']
+ALLOWED_HOSTS = ['mysuperlists.ir', 'staging.mysuperlists.ir', 'localhost']
 
 
 # Application definition
