@@ -9865,3 +9865,10 @@ Exiting due to channel error.
 1603132283194	Marionette	INFO	Listening on port 36207
 1603132283243	Marionette	WARN	TLS certificate errors will be ignored for this session
 1603132286993	Marionette	INFO	Stopped listening on port 36207
+1603132490052	geckodriver	INFO	Listening on 127.0.0.1:48801
+1603132490064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKWg7oU"
+1603132491206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1603132491207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1603132496619	Marionette	INFO	Listening on port 42637
+1603132496742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603132582565	Marionette	INFO	Stopped listening on port 42637
